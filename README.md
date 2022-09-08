@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhineyMonkey10
+- 👋 Hi, I’m @WhineyMonkey10 - An extremely bored developer
 - 👀 I’m interested in developing in Python, ethical hacking and Web Development.
 - 🌱 I’m currently learning CSS & HTML.
 - 💞️ I’m looking to collaborate on any Python project.
