@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/71403599?v=4" width="100"/>
 </div>
 
-### :fire: My Stats :
+### :fire: My stats cause I'm just cool like that :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WhineyMonkey10&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhineyMonkey10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
