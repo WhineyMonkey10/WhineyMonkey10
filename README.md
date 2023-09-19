@@ -1,3 +1,9 @@
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 - 👋 Hi, I’m @WhineyMonkey10 - An extremely bored developer
 - 👀 I’m interested in developing in Python, ethical hacking and Web Development.
 - 🌱 I’m currently learning Java.
