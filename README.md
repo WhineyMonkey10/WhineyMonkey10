@@ -11,3 +11,10 @@
 - 👋 Hi, I’m @WhineyMonkey10 - An extremely bored developer
 - 🌱 I’m currently learning Java & C#.
 - 📫 I'm working on a new personal website for myself since my current one is uhh, not the nicest one ever.
+- 🚨 Most of my cool projects are currently private repos. Will probabaly stay that way until I decide to have them realeased to the public. Please DM me on Discord (or any other platform) if for some reason you'd like to take a look at some of those projects.
+
+
+
+P.S:
+
+If you came here looking for the code for GladosAI, that will come very soon :)
